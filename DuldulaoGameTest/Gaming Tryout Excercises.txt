@@ -1,0 +1,70 @@
+DEVELOPER ENTRY LEVEL EXAM
+
+1. Create a skype account if you do not have one.
+2. Add me to your contact list on skype
+
+Mobile Fun Coding Challenge
+Create the following game:
+
+You have a set of warriors, each warrior has the following data:
+? Name
+? Health
+? Attack
+? Defence
+? Speed
+? Evade
+
+Health, Attack, Defence and Speed are integer values between 0 and 100. Evade is a
+number between 0 and 1.
+
+There are currently 3 types of warrior:
+? Ninja
+? Health (40-60)
+? Attack (60-70)
+? Defence (20-30)
+? Speed (90-100)
+? Evade (0.3-0.5)
+
+? Samurai
+? Health (60-100)
+? Attack (75-80)
+? Defence (35-40)
+? Speed (60-80)
+? Evade (0.3-0.4)
+
+? Brawler
+? Health (90-100)
+? Attack (65-75)
+? Defence (40-50)
+? Speed (40-65)
+? Evade (0.3-0.35)
+
+The values for each attribute are specified as a range, on creation each warrior will be
+assigned a random value within this range for the given attribute.
+
+Warriors can take part in a battle, a battle has only 2 combatants. Warriors take it in turn to
+attack each other. The warrior with the greatest speed takes the first attack (in the event of
+two with the same speed, player with the lower defence goes first).
+
+1:   The damage dealt is (attack - oppositions defence) and is taken from the health. 
+
+
+2:   Damage may be avoided, the chance of avoiding an attack is specified by the evade attribute.
+
+The max amount of turns is 30 per player, if no player is defeated then the battle is a draw.
+As the battle progresses a text output should be shown. When a warrior gets to zero health
+the warrior is defeated.
+
+Special attributes of warriors:
+? Ninja
+With each attack there is a 5% chance of doubling the attack strength.
+
+? Samurai
+When a samurai evades an attack there is a 10% chance of regaining 10 health.
+
+? +Brawler
+? When a brawler’s health falls to less than 20% their defence increases by 10.
+
+Allow a form to select player 1 and 2, and when submitted create a battle with the 2 players
+and output the result of the battle!!
+

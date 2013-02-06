@@ -1,0 +1,25 @@
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\bin\Debug\DuldulaoGameTest.exe
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\bin\Debug\DuldulaoGameTest.pdb
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.Form1.resources
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.Properties.Resources.resources
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.exe
+D:\DuldulaoJakeBackup-Files\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.pdb
+C:\Users\staff05-hubport\Documents\Visual Studio 2010\Projects\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.exe
+C:\Users\staff05-hubport\Documents\Visual Studio 2010\Projects\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.pdb
+C:\Users\staff05-hubport\Documents\Visual Studio 2010\Projects\DuldulaoGameTest\DuldulaoGameTest\bin\Debug\DuldulaoGameTest.exe
+C:\Users\staff05-hubport\Documents\Visual Studio 2010\Projects\DuldulaoGameTest\DuldulaoGameTest\bin\Debug\DuldulaoGameTest.pdb
+C:\Users\staff05-hubport\Documents\Visual Studio 2010\Projects\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.Form1.resources
+C:\Users\staff05-hubport\Documents\Visual Studio 2010\Projects\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.Properties.Resources.resources
+C:\Users\staff05-hubport\Documents\Visual Studio 2010\Projects\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.csproj.GenerateResource.Cache
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.exe
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.pdb
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\bin\Debug\DuldulaoGameTest.exe
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\bin\Debug\DuldulaoGameTest.pdb
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.Form1.resources
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\DuldulaoGameTest.Properties.Resources.resources
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sony\Downloads\Duldulao Exam\DuldulaoGameTest\DuldulaoGameTest\obj\x86\Debug\GenerateResource.write.1.tlog
